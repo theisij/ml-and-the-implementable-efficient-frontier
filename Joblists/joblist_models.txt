@@ -1,0 +1,12 @@
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models1.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models2.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models3.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models4.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models5.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models6.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models7.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models8.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models9.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models10.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models11.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_fit_models.R config_files/config_models12.txt

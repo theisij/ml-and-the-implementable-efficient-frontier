@@ -1,0 +1,6 @@
+# Parameters for script
+size_screen = "perc_low80_high100_min50"
+industry_cov = FALSE
+wealth = 1e10
+gamma_rel = 10
+update_mp = TRUE

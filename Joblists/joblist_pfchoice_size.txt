@@ -1,0 +1,5 @@
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_size1.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_size2.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_size3.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_size4.txt
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_size5.txt

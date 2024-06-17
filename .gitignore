@@ -1,1 +1,10 @@
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Data/
+Figures/
+slurm_output/
+simulations/results/
+simulations/Depreceated code/
+scribbles/

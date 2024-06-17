@@ -1,0 +1,15 @@
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim1.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim2.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim3.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim4.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim5.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim6.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim7.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim8.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim9.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim10.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim11.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim12.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim13.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim14.txt
+module load R/4.3.0-foss-2020b;  Rscript simulations/simulations.R config_files/config_sim15.txt

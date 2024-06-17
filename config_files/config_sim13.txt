@@ -1,0 +1,2 @@
+# Parameters for script
+seed = 13

@@ -1,0 +1,10 @@
+# Parameters for script
+size_screen = "all"
+industry_cov = TRUE
+wealth = 1e10
+gamma_rel = 10
+update_mp = TRUE
+update_base = TRUE
+update_fi_base = FALSE
+update_fi_ief = FALSE
+update_fi_ret = FALSE

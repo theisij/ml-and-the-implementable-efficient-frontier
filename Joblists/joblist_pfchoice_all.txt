@@ -1,0 +1,1 @@
+module load R/4.3.0-foss-2020b;  Rscript slurm_build_portfolios.R config_files/config_pfchoice_all.txt
