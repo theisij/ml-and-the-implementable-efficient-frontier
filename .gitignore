@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+ief_for_slides.R
 Data/
 Figures/
 slurm_output/
