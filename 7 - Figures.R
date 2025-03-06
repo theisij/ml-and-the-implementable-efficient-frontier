@@ -100,33 +100,3 @@ ggsave("Figures/w_liq.pdf", width = fig_w, height = fig_h, units = "in")
 # Simulations
 output$simulations + theme(text = element_text(size=txt_size))
 ggsave("Figures/simulations.pdf", width = fig_w, height = fig_h, units = "in")
-
-
-# FOR SLIDES ----------------
-if (FALSE) {
-  # EF slides
-  output_fig(path=output_path_fig, name = "ef_slide0", format = format, width = w, height = h)
-  output$ef_slide0 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide1", format = format, width = w, height = h)
-  output$ef_slide1 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide2", format = format, width = w, height = h)
-  output$ef_slide2 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide3", format = format, width = w, height = h)
-  output$ef_slide3 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide4", format = format, width = w, height = h)
-  output$ef_slide4 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide5", format = format, width = w, height = h)
-  output$ef_slide5 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide6", format = format, width = w, height = h)
-  output$ef_slide6 + theme(text = element_text(size=txt_size))
-  dev.off()
-  output_fig(path=output_path_fig, name = "ef_slide7", format = format, width = w, height = h)
-  output$ef_slide7 + theme(text = element_text(size=txt_size))
-  dev.off()
-}
