@@ -102,9 +102,7 @@ This call will start 15 independent jobs, which for us took a maximum of 9 hours
 ## Data analysis
 After generating the data from the previous section, you can analyze it on your local PC. Specifically, you can generate all figures and tables from the paper by running the scripts below. Importantly, you need to go through each script and ensure they point to the correct files (the names of the files from the previous sections depend on when the code was submitted). 
 
-Start by running the `main.R` script to load the relevant packages and settings. 
-
-Next, run the scripts below to create the figures and tables:
+You can generate the tables and figures from the paper by running the `separate_analysis_run.R` script. This script will generate the main data set, import the results from the previous section, and generate the figures and tables from the following scripts:
 
 - `6 - Implementable efficient frontier.R`
 - `6 - Base analysis.R`
